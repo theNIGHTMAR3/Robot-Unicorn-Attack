@@ -1,0 +1,3 @@
+C:\Users\micha\Desktop\programowanie\template-project-2\Debug\szablon2vs17.exe
+C:\Users\micha\Desktop\programowanie\template-project-2\Debug\szablon2vs17.pdb
+D:\Studia\1. semester\PP\Robot Unicorn Attack\Debug\szablon2vs17.exe

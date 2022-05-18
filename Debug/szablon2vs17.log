@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(175,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(179,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(184,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(186,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(213,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(223,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(294,58): warning C4805: '==': unsafe mix of type 'SDL_bool' and type 'bool' in operation
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(322,56): warning C4805: '==': unsafe mix of type 'SDL_bool' and type 'bool' in operation
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(345,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(599,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(610,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(627,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(665,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(709,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(724,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(743,52): warning C4805: '==': unsafe mix of type 'SDL_bool' and type 'bool' in operation
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(852,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(855,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(857,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(361,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(376,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(377,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(378,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(397,15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(851,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\1. semester\PP\Robot Unicorn Attack\main.cpp(856,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs17.vcxproj -> D:\Studia\1. semester\PP\Robot Unicorn Attack\Debug\szablon2vs17.exe
